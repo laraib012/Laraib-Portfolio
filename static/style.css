@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color: rgb(34, 110, 24);
 }
 #header .hamburger {
 	height: 60px;
